@@ -1,5 +1,5 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
-
+C:\Users\Caspe\WebstormProjects\SendGridFireStore\package-lock.json
 # compiled output
 /dist
 /tmp

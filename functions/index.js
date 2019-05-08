@@ -20,7 +20,6 @@ exports.httpEmail = functions.https.onRequest((req, res) => {
     const msg = {
       to: 'casper90.n.olsen@gmail.com',
       from: 'feedbackangular@gmail.com',
-      password: 'Angular1',
       subject:  'New Follower',
       // text: `Hey ${toName}. You have a new follower!!! `,
       // html: `<strong>Hey ${toName}. You have a new follower!!!</strong>`,
